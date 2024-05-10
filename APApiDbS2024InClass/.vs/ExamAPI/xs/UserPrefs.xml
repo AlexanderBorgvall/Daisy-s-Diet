@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/Manager.cs">
+    <Files>
+      <File FileName="DataRepository/BaseRepository.cs" Line="10" Column="10" />
+      <File FileName="Controllers/Login.cs" Line="1" Column="1" />
+      <File FileName="Model/Student.cs" Line="25" Column="1" />
+      <File FileName="Controllers/StudentController.cs" Line="22" Column="10" />
+      <File FileName="DataRepository/Repository.cs" Line="73" Column="33" />
+      <File FileName="Middleware/AuthenticationHelper.cs" Line="1" Column="1" />
+      <File FileName="Model/Manager.cs" Line="6" Column="5" />
+      <File FileName="DataRepository/ManagerRepository.cs" Line="39" Column="1" />
+      <File FileName="Middleware/HeaderAuthenticationMiddleware.cs" Line="1" Column="1" />
+      <File FileName="Middleware/BasicAuthenticationMiddleware.cs" Line="1" Column="1" />
+      <File FileName="Model/TimeRegistration.cs" Line="24" Column="1" />
+      <File FileName="Model/Login.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ManagerController.cs" Line="36" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.APApiDbS2024InClass PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

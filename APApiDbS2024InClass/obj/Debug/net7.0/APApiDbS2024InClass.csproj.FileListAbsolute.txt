@@ -1,0 +1,145 @@
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.csproj.AssemblyReference.cache
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.AssemblyInfoInputs.cache
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.AssemblyInfo.cs
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.csproj.CoreCompileInputs.cache
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/appsettings.Development.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/appsettings.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.deps.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.runtimeconfig.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.pdb
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Npgsql.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.APApiDbS2024InClass.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.build.APApiDbS2024InClass.props
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.APApiDbS2024InClass.props
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.APApiDbS2024InClass.props
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets.build.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets.development.json
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/scopedcss/bundle/APApiDbS2024InClass.styles.css
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.csproj.CopyComplete
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/refint/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.pdb
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.genruntimeconfig.cache
+/Users/alexander-arbejde/Desktop/Lecture09/APApiDbS2024InClass/APApiDbS2024InClass/obj/Debug/net7.0/ref/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/appsettings.Development.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/appsettings.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.deps.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.runtimeconfig.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/APApiDbS2024InClass.pdb
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Npgsql.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.csproj.AssemblyReference.cache
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.AssemblyInfoInputs.cache
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.AssemblyInfo.cs
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.csproj.CoreCompileInputs.cache
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.APApiDbS2024InClass.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.build.APApiDbS2024InClass.props
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.APApiDbS2024InClass.props
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.APApiDbS2024InClass.props
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets.build.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/staticwebassets.development.json
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/scopedcss/bundle/APApiDbS2024InClass.styles.css
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.csproj.CopyComplete
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/refint/APApiDbS2024InClass.dll
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.pdb
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/APApiDbS2024InClass.genruntimeconfig.cache
+/Users/alexander-arbejde/Desktop/Exam folders/APApiDbS2024InClass/obj/Debug/net7.0/ref/APApiDbS2024InClass.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.csproj.AssemblyReference.cache
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.AssemblyInfoInputs.cache
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.AssemblyInfo.cs
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.csproj.CoreCompileInputs.cache
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\refint\APApiDbS2024InClass.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.pdb
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\appsettings.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.exe
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.deps.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.runtimeconfig.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.pdb
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Npgsql.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.APApiDbS2024InClass.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.build.APApiDbS2024InClass.props
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APApiDbS2024InClass.props
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APApiDbS2024InClass.props
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\scopedcss\bundle\APApiDbS2024InClass.styles.css
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.csproj.CopyComplete
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.genruntimeconfig.cache
+C:\Users\agkir\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\ref\APApiDbS2024InClass.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\appsettings.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.exe
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.deps.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.runtimeconfig.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\APApiDbS2024InClass.pdb
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Npgsql.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.APApiDbS2024InClass.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.build.APApiDbS2024InClass.props
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APApiDbS2024InClass.props
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APApiDbS2024InClass.props
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\scopedcss\bundle\APApiDbS2024InClass.styles.css
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS.8CF4142A.Up2Date
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\refint\APApiDbS2024InClass.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.pdb
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\ref\APApiDbS2024InClass.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Newtonsoft.Json.dll

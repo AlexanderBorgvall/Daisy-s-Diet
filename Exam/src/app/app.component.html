@@ -1,0 +1,16 @@
+<mat-toolbar class="mat-color">
+  <button [matMenuTriggerFor]="menu1" mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <mat-menu #menu1="matMenu">
+     <button mat-menu-item routerLink="/login">Employees</button>
+  </mat-menu>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <span>Daisys diet</span>
+  <span></span>
+  <span class="example-spacer"></span>   
+</mat-toolbar>
+<router-outlet />
