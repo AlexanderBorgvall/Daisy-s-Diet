@@ -21,15 +21,24 @@ export class EmployeeService {
 
   // Fetch all employees with authorization
   getEmployees(): Observable<Employee[]> {
-    return this.http.get<Employee[]>(`${this.baseUrl}/employee`, {
+    return this.http.get<Employee[]>(`${this.baseUrl}/employees`, {
       headers: { "Authorization": this.authHeader }
     });
   }
 
   // Fetch a single employee by ID
   getEmployee(id: number): Observable<Employee> {
-    return this.http.get<Employee>(`${this.baseUrl}/employee/${id}`, {
+    return this.http.get<Employee>(`${this.baseUrl}/employees/${id}`, {
+      headers: { "Authorization": this.authHeader }
+    });
+  }
+  createRegistration(employeeId: number, dateWorked: Date, hoursWorked: number): Observable<any> {
+    return this.http.post(`${this.baseUrl}/employees/${employeeId}/registrations`, {
+      dateWorked: dateWorked,
+      hoursWorked: hoursWorked
+    }, {
       headers: { "Authorization": this.authHeader }
     });
   }
 }
+

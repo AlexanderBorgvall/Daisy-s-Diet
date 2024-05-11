@@ -6,6 +6,9 @@ import { Login } from '../model/login';
   providedIn: 'root'
 })
 export class AuthService {
+  isAuthenticated() {
+    throw new Error('Method not implemented.');
+  }
   baseUrl: string = "http://localhost:5057/api";
   constructor(private http: HttpClient) {
   }
@@ -16,30 +19,3 @@ export class AuthService {
     });
   }
 }
-
-
-
-
-
-
-
-/*import { HttpClient } from '@angular/common/http';
-import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
-
-@Injectable({
-  providedIn: 'root'
-})
-export class AuthService {
-  baseUrl: string = "http://localhost:5057/api";
-
-  constructor(private http: HttpClient) { }
-
-  authenticate(username: string, password: string): Observable<any> {
-    return this.http.post<any>(`${this.baseUrl}/login`, { username, password });
-  }
-
-  isAuthenticated(): Observable<boolean> {
-    return this.http.get<boolean>(`${this.baseUrl}/is-authenticated`);
-  }
-}*/

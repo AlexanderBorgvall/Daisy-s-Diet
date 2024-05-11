@@ -14,6 +14,10 @@ export class FrontPageComponent {
     this.navigateTo('employee');
   }
 
+  showEmployeeListPage(): void {
+    this.navigateTo('employee-list')
+  }
+
   private navigateTo(target: string): void {
     this.authService.authenticate('username', 'password').subscribe(isAuth => {
       if (!isAuth) {

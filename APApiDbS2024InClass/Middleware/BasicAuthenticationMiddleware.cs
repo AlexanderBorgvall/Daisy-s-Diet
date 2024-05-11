@@ -30,23 +30,6 @@ public class BasicAuthenticationMiddleware
         string password = credentials.Password;
         // 1. Try to retrieve the Request Header containing our secret value
         Debug.WriteLine(context.Request);
-        // 2. If not found, then return with Unauthrozied response
-        //if (authHeader == null)
-        //{
-        // context.Response.StatusCode = 401;
-        //await context.Response.WriteAsync("Authorization Header value not provided");
-        //return;
-        //}
-        // 3. Extract the username and password from the value by splitting it on space,
-        // as the value looks something like 'Basic am9obi5kb2U6VmVyeVNlY3JldCE='
-        //var auth = authHeader.Split(new[] { ' ' })[1];
-        // 4. Convert it form Base64 encoded text, back to normal text
-        // var usernameAndPassword = Encoding.UTF8.GetString(Convert.FromBase64String(auth));
-        // 5. Extract username and password, which are separated by a semicolon
-        // var username = usernameAndPassword.Split(new[] { ':' })[0];
-        //var password = usernameAndPassword.Split(new[] { ':' })[1];
-        // 6. Check if both username and password are correct
-
         context.Items["Credentials"] = credentials;
         if (username == USERNAME && password == PASSWORD)
         {

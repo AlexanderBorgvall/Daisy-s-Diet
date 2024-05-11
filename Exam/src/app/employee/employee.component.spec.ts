@@ -1,5 +1,11 @@
-/*import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { EmployeeComponent } from './employee.component';
+import { FormsModule } from '@angular/forms';
+
+TestBed.configureTestingModule({
+  imports: [FormsModule],
+  declarations: [EmployeeComponent]
+})
 
 describe('EmployeeComponent', () => {
   let component: EmployeeComponent;
@@ -19,4 +25,4 @@ describe('EmployeeComponent', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
-});*/
+});

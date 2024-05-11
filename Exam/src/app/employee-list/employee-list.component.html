@@ -1,3 +1,8 @@
-@for (s of employeeList; track $index) {
-    <app-employee [employee]="s"></app-employee>
- }
+<h2>All Registrations</h2>
+<ul>
+  <li *ngFor="let registration of allRegistrations">
+    Employee: {{ registration.employeeName }} | Date: {{ registration.dateWorked }} | Hours: {{ registration.hoursWorked }}
+  </li>
+</ul>
+
+  

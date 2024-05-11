@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\middleware\\basicauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:middleware\\basicauthenticationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\model\\timeregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:model\\timeregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\datarepository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,40 +27,32 @@
       "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\datarepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:datarepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\model\\timeregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:model\\timeregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Model\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Model\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\datarepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:datarepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|c:\\users\\alexa\\onedrive\\skrivebord\\daisy\u0027s diet\\apapidbs2024inclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004F8D09-564A-4AC4-B78B-4DBF0C1E1BD9}|APApiDbS2024InClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,24 +62,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T10:45:59.798Z",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:37:23.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
+              "Title": "BasicAuthenticationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Middleware\\BasicAuthenticationMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\BasicAuthenticationMiddleware.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Middleware\\BasicAuthenticationMiddleware.cs",
+              "RelativeToolTip": "Middleware\\BasicAuthenticationMiddleware.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:09:02.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "Model\\Employee.cs",
@@ -92,33 +105,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:09:02.147Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T10:45:59.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:37:23.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\DataRepository\\BaseRepository.cs",
               "RelativeDocumentMoniker": "DataRepository\\BaseRepository.cs",
@@ -131,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\DataRepository\\Repository.cs",
               "RelativeDocumentMoniker": "DataRepository\\Repository.cs",
@@ -139,25 +138,11 @@
               "RelativeToolTip": "DataRepository\\Repository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:09:02.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:09:02.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BasicAuthenticationMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Middleware\\BasicAuthenticationMiddleware.cs",
-              "RelativeDocumentMoniker": "Middleware\\BasicAuthenticationMiddleware.cs",
-              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Middleware\\BasicAuthenticationMiddleware.cs",
-              "RelativeToolTip": "Middleware\\BasicAuthenticationMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:09:02.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -165,12 +150,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-09T14:26:49.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:26:49.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Model\\Login.cs",
               "RelativeDocumentMoniker": "Model\\Login.cs",
@@ -183,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -191,25 +175,36 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:09:02.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T14:09:02.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "TimeRegistration.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Model\\TimeRegistration.cs",
               "RelativeDocumentMoniker": "Model\\TimeRegistration.cs",
               "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Model\\TimeRegistration.cs",
               "RelativeToolTip": "Model\\TimeRegistration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T18:49:24.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:09:02.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ManagerController.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Controllers\\ManagerController.cs",
               "RelativeDocumentMoniker": "Controllers\\ManagerController.cs",
@@ -220,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\alexa\\OneDrive\\Skrivebord\\Daisy\u0027s Diet\\APApiDbS2024InClass\\Model\\Manager.cs",
               "RelativeDocumentMoniker": "Model\\Manager.cs",

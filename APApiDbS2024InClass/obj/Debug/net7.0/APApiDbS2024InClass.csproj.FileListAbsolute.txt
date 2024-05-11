@@ -143,3 +143,4 @@ C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\ne
 C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.genruntimeconfig.cache
 C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\ref\APApiDbS2024InClass.dll
 C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\alexa\OneDrive\Skrivebord\Daisy's Diet\APApiDbS2024InClass\obj\Debug\net7.0\APApiDbS2024InClass.sourcelink.json

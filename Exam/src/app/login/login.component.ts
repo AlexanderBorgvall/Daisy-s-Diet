@@ -22,6 +22,7 @@ export class LoginComponent {
           localStorage.setItem('headerValue', auth.headerValue);
           this.authenticated = true;
           this.router.navigate(['employees'])
+          this.router.navigate(['employee-list'])
         }
       });
     }

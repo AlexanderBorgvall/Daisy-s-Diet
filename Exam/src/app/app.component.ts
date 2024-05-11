@@ -14,7 +14,7 @@ import {MatMenuModule} from '@angular/material/menu';
     standalone: true,
     templateUrl: './app.component.html',
     styleUrl: './app.component.css',
-    imports: [FormsModule, MatMenuModule, MatToolbarModule, MatButtonModule, MatIconModule, MatSlideToggle, RouterModule, RouterOutlet, EmployeeComponent, EmployeeListComponent]
+    imports: [FormsModule, MatMenuModule, MatToolbarModule, MatButtonModule, MatIconModule, MatSlideToggle, RouterModule, RouterOutlet, EmployeeComponent, EmployeeListComponent],
 })
 export class AppComponent {
   title = 'examangular';

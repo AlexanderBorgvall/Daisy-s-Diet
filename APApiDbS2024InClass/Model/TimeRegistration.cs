@@ -17,7 +17,5 @@ namespace APApiDbS2024InClass.Model
         [JsonPropertyName("Total Hours Registered")]
         public int TotalHoursRegistered { get; set; }
 
-        [JsonPropertyName("Total Hours Approved")]
-        public int TotalHoursApproved { get; set; }
     }
 }

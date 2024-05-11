@@ -1,29 +1,36 @@
-// EmployeeListComponent
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { Employee } from '../model/employee';
 import { EmployeeService } from '../service/employee.service';
+import { FormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
 import { Router } from '@angular/router';
-import { EmployeeComponent } from "../employee/employee.component";
+import { Timeregistration } from '../model/timeregistration';
 
 @Component({
-    selector: 'app-employee-list',
-    standalone: true,
-    templateUrl: './employee-list.component.html',
-    styleUrls: ['./employee-list.component.css'],
-    imports: [EmployeeComponent]
+  selector: 'app-employee-list',
+  templateUrl: './employee-list.component.html',
+  styleUrls: ['./employee-list.component.css'],
+  standalone: true,
+  imports: [FormsModule, CommonModule],
 })
 export class EmployeeListComponent implements OnInit {
+  @Input() timregistration!: Timeregistration;
   employeeList: Employee[] = [];
+  allRegistrations: any[] = []; // Declare allRegistrations array
 
   constructor(private employeeService: EmployeeService, private router: Router) {}
 
   ngOnInit(): void {
-    if (this.employeeService.authHeader == null) {
-    this.router.navigate(["login"]);
-    return;
+    // Redirect to login page if not authenticated
+    if (!this.employeeService.authHeader) {
+      this.router.navigate(["login"]);
+      return;
     }
+    
+    // Fetch employee data if authenticated
     this.employeeService.getEmployees().subscribe((employees) => {
-    this.employeeList = employees;
+      this.employeeList = employees;
+      this.allRegistrations = this.employeeList.flatMap(employee => employee.registrations);
     });
-    }
   }
+}
