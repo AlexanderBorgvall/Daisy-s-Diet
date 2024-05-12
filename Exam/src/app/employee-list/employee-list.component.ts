@@ -14,9 +14,10 @@ import { Timeregistration } from '../model/timeregistration';
   imports: [FormsModule, CommonModule],
 })
 export class EmployeeListComponent implements OnInit {
-  @Input() timregistration!: Timeregistration;
-  employeeList: Employee[] = [];
-  allRegistrations: any[] = []; // Declare allRegistrations array
+  @Input() timeregistration!: Timeregistration;
+  TimeRegistrations: Timeregistration[] = [];
+  Employeename: string = ""
+  EmployeeId?: number = undefined
 
   constructor(private employeeService: EmployeeService, private router: Router) {}
 
@@ -26,11 +27,14 @@ export class EmployeeListComponent implements OnInit {
       this.router.navigate(["login"]);
       return;
     }
+  }
     
     // Fetch employee data if authenticated
-    this.employeeService.getEmployees().subscribe((employees) => {
-      this.employeeList = employees;
-      this.allRegistrations = this.employeeList.flatMap(employee => employee.registrations);
+    getTimeRegistrations (){
+    this.employeeService.getTimeRegistrations(this.EmployeeId).subscribe((data) => {
+      this.TimeRegistrations = data.registrations;
+      this.TimeRegistrations = this.TimeRegistrations.map(reg => ({...reg, dateworked: new Date(reg.dateworked).toLocaleDateString()}))
+      this.Employeename = data.employeeName
     });
   }
 }

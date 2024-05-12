@@ -2,6 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { Employee } from '../model/employee';
+import { Timeregistration } from '../model/timeregistration';
 
 @Injectable({
   providedIn: 'root'
@@ -32,13 +33,23 @@ export class EmployeeService {
       headers: { "Authorization": this.authHeader }
     });
   }
-  createRegistration(employeeId: number, dateWorked: Date, hoursWorked: number): Observable<any> {
-    return this.http.post(`${this.baseUrl}/employees/${employeeId}/registrations`, {
+
+  getTimeRegistrations (employeeId?: number) {
+
+  return this.http.get<{registrations: Timeregistration[], employeeName: string}>(`${this.baseUrl}/EmployeeList/${employeeId}`, {
+    headers: { "Authorization": this.authHeader }
+  });
+}
+
+  createRegistration(employeeId: number, dateWorked: Date, hoursRegistered: number): Observable<any> {
+    return this.http.post(`${this.baseUrl}/employee/${employeeId}/registrations`, {
       dateWorked: dateWorked,
-      hoursWorked: hoursWorked
+      hoursRegistered: hoursRegistered,
+      employeeId: employeeId,
     }, {
       headers: { "Authorization": this.authHeader }
     });
   }
 }
+
 

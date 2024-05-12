@@ -1,7 +1,12 @@
-<h2>All Registrations</h2>
-<ul>
-  <li *ngFor="let registration of allRegistrations">
-    Employee: {{ registration.employeeName }} | Date: {{ registration.dateWorked }} | Hours: {{ registration.hoursWorked }}
+<h2>All registrations for {{Employeename}}</h2>
+  <div>
+  <label for="EmployeeIdinput">Employee ID:</label>
+    <input type="number" id="EmployeeIdinput" min = 1 [(ngModel)]="EmployeeId">
+  </div>
+  <button (click)="getTimeRegistrations()">View submitted registrations</button>
+  <ul>
+  <li *ngFor="let registration of TimeRegistrations">
+    Date: {{ registration.dateworked }} | Hours: {{ registration.hoursRegistered }}
   </li>
 </ul>
 

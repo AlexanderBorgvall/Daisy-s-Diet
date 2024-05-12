@@ -17,7 +17,8 @@ import {FormsModule} from '@angular/forms'
 export class EmployeeComponent implements OnInit {
   @Input() employee!: Employee;
   dateWorked: Date = new Date(); // Initialize with current date
-  hoursWorked: number = 0; // Initialize with zero hours
+  hoursRegistered: number = 0; // Initialize with zero hours
+  employeeId: number = 1;
 
   constructor(private employeeService: EmployeeService, private router: Router) {}
 
@@ -30,12 +31,13 @@ export class EmployeeComponent implements OnInit {
   }
 
   createNewRegistration() {
-    this.employeeService.createRegistration(this.employee.id, this.dateWorked, this.hoursWorked)
+    console.log('checktime')
+    this.employeeService.createRegistration(this.employeeId, this.dateWorked, this.hoursRegistered)
       .subscribe(() => {
         // Reset the input fields after successful submission if needed
         this.dateWorked = new Date();
-        this.hoursWorked = 0;
-        this.employeeService.getEmployee(this.employee.id)
+        this.hoursRegistered = 0;
+        this.employeeService.getEmployee(this.employeeId)
         .subscribe((updatedEmployee) => {
           // Update the employee object with the updated data
           this.employee = updatedEmployee;

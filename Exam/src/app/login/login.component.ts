@@ -12,7 +12,6 @@ import { Router } from '@angular/router';
 export class LoginComponent {
   username!: String;
   password!: String;
-  authenticated = false;
   constructor(public auth: AuthService, private router: Router) { }
   login() {
     if (this.username != null && this.password != null) {
@@ -20,9 +19,7 @@ export class LoginComponent {
         if (auth != null) {
           // Save to the local storage
           localStorage.setItem('headerValue', auth.headerValue);
-          this.authenticated = true;
           this.router.navigate(['employees'])
-          this.router.navigate(['employee-list'])
         }
       });
     }

@@ -5,17 +5,14 @@ namespace APApiDbS2024InClass.Model
 {
     public class TimeRegistration
     {
-        [JsonPropertyName("Hours Registered")]
+        [JsonPropertyName("hoursRegistered")]
         public int HoursRegistered { get; set; }
 
-        [JsonPropertyName("EmployeeId")]
+        [JsonPropertyName("employeeId")]
         public int EmployeeId { get; set; }
 
-        [JsonPropertyName("Date Worked")]
+        [JsonPropertyName("dateworked")]
         public DateTime DateWorked { get; set; }
-
-        [JsonPropertyName("Total Hours Registered")]
-        public int TotalHoursRegistered { get; set; }
 
     }
 }

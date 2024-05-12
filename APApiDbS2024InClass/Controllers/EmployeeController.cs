@@ -95,6 +95,24 @@ namespace APApiDbS2024InClass.Controllers
 
             return BadRequest($"Unable to delete employee with id {id}");
         }
+
+        [HttpPost]
+        [Route ("{employeeId}/registrations")]
+        public ActionResult CreateRegistration([FromBody] TimeRegistration timeRegistration)
+        {
+            if (timeRegistration == null)
+            {
+                return BadRequest("No timeregistration avaliable");
+            }
+
+            bool status = Repository.InsertTimeRegistration(timeRegistration);
+            if (status)
+            {
+                return Ok();
+            }
+
+            return BadRequest();
+        }
     }
 }
 

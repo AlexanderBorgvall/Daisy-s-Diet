@@ -6,14 +6,17 @@ namespace APApiDbS2024InClass.Controllers;
 public class LoginController : Controller
 {
     // In real world application, these would be saved in a database
-    private const string USERNAME = "john.doe";
-    private const string PASSWORD = "VerySecret!";
+    private Dictionary<string, string> AllowedCredentials = new Dictionary<string, string>() {
+  { "Harry", "Passcode1!" }, { "Sabrina", "Passcode2!" }, { "Johnny", "Passcode3!" }, { "Mette", "Passcode4!" }, { "Wu", "Passcode5!" }, { "Roseanne", "Passcode6!" }, { "Joo-hyuk", "Passcode7!" }, { "Batman", "Passcode7!" }, { "Loki", "Passcode8!" },{ "Scott", "Passcode9!" },
+    };
+
+    //private const string USERNAME = "john.doe";
+    //private const string PASSWORD = "VerySecret!";
     [AllowAnonymous]
     [HttpPost]
-    public ActionResult Login()
+    public ActionResult Login([FromBody] Login credentials)
     {
-        var credentials = HttpContext.Items["Credentials"] as Login;
-        if (credentials.Username == USERNAME && credentials.Password == PASSWORD)
+        if (AllowedCredentials.ContainsKey(credentials.Username) && AllowedCredentials[credentials.Username] == credentials.Password)
         {
             // 1. Concatenate username and password with a semicolon
             var text = $"{credentials.Username}:{credentials.Password}";
